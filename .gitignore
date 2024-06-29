@@ -1,2 +1,2 @@
-#freeCad backups
-.*.FCBak
+# Ignore all files with .*.FCBak pattern
+*.FCBak
